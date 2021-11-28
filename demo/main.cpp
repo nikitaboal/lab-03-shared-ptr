@@ -15,3 +15,4 @@ std::cout << a.get() << std::endl;
 std::cout << b.get() << std::endl;
 std::cout << c.get() << std::endl;
 }
+//g
