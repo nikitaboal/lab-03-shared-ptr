@@ -1,3 +1,4 @@
+// Copyright 2021 Your Name <your_email>
 #ifndef INCLUDE_SHAREDPTR_HPP_
 #define INCLUDE_SHAREDPTR_HPP_
 
